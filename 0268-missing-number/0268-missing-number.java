@@ -1,19 +1,16 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        //no sorting due to time complexity
         int n=nums.length;
-       // sum of nat numb
-       int sum=0;
-       int ans=0;
-       int nat=n*(n+1)/2;
-       for(int i=0; i<n; i++){
-        sum+=nums[i];
-       
+        //n+1 kyuki n numbers chahiye
+        boolean arr[]=new boolean [n+1];
+        for(int i:nums){
+            arr[i]=true;
 
-
-
-       }
-       return nat-sum;
+        }
+        for(int i=0; i<arr.length; i++){
+            if(arr[i]==false) return i;
+        }
+        return -1;
 
     }
 }
