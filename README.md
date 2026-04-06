@@ -15,6 +15,7 @@ Daily Questions
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/vishusharma2345/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -59,6 +60,7 @@ Daily Questions
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/vishusharma2345/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -217,6 +219,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/vishusharma2345/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/vishusharma2345/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vishusharma2345/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/vishusharma2345/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishusharma2345/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
