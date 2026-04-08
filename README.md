@@ -7,6 +7,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0135-candy](https://github.com/vishusharma2345/LeetCode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishusharma2345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -143,6 +144,7 @@ Daily Questions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/vishusharma2345/LeetCode/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishusharma2345/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
