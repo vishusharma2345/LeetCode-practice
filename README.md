@@ -24,6 +24,7 @@ Daily Questions
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vishusharma2345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -124,6 +125,7 @@ Daily Questions
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vishusharma2345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -183,6 +185,7 @@ Daily Questions
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishusharma2345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vishusharma2345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
