@@ -1,5 +1,6 @@
 class Solution {
     public boolean canMeasureWater(int x, int y, int target) {
+        //by RECURSION
 
         // edge cases
         if(target > x + y) return false;
@@ -9,12 +10,9 @@ class Solution {
         return target % gcd == 0;
     }
 
-    int gcd(int a, int b) {
-        while(b != 0) {
-            int rem = a % b;
-            a = b;
-            b = rem;
-        }
-        return a;
+    int gcd(int dividend, int divisor) {
+        if(divisor==0)return dividend;
+        return gcd(divisor,dividend%divisor);
+        
     }
 }
