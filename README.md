@@ -19,6 +19,7 @@ Daily Questions
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/vishusharma2345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/vishusharma2345/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -161,6 +162,7 @@ Daily Questions
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishusharma2345/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/vishusharma2345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
