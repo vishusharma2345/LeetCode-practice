@@ -31,6 +31,7 @@ Daily Questions
 | [1848-minimum-distance-to-the-target-element](https://github.com/vishusharma2345/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/vishusharma2345/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vishusharma2345/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/vishusharma2345/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -116,6 +117,7 @@ Daily Questions
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishusharma2345/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishusharma2345/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vishusharma2345/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vishusharma2345/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishusharma2345/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
