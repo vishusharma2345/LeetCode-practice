@@ -30,6 +30,7 @@ Daily Questions
 | [1441-build-an-array-with-stack-operations](https://github.com/vishusharma2345/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vishusharma2345/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/vishusharma2345/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vishusharma2345/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -56,6 +57,7 @@ Daily Questions
 | [0151-reverse-words-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Daily Questions
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/vishusharma2345/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
