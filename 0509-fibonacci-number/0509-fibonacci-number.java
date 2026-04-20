@@ -1,11 +1,20 @@
 class Solution {
     public int fib(int n) {
-        //base cases
+        int dp[]=new int[n+1];
+        return fibonacci(n,dp);
+        }
+        int fibonacci(int n,int dp[]){
         if(n==0)return 0;
         if(n==1)return 1;
-        return fib(n-1)+fib(n-2);
+       if(dp[n]!=0){
+        return dp[n];
+       }
+       return dp[n]=fib(n-1)+fib(n-2);
         
+        }
+
+
 
         
-    }
+    
 }
