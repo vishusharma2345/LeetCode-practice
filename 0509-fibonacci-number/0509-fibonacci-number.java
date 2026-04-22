@@ -1,5 +1,6 @@
 class Solution {
     public int fib(int n) {
+        //by memoization=big o n
         int dp[]=new int[n+1];
         return fibonacci(n,dp);
         }
