@@ -3,7 +3,7 @@ class Solution {
         int dp[]=new int[n+1];
         return fibonacci(n,dp);
         }
-        int fibonacci(int n,int dp[]){
+       public int fibonacci(int n,int dp[]){
         if(n==0)return 0;
         if(n==1)return 1;
        if(dp[n]!=0){
