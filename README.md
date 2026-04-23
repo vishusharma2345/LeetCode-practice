@@ -37,6 +37,7 @@ Daily Questions
 | [2463-minimum-total-distance-traveled](https://github.com/vishusharma2345/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vishusharma2345/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/vishusharma2345/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/vishusharma2345/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vishusharma2345/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -91,6 +92,7 @@ Daily Questions
 | [0992-subarrays-with-k-different-integers](https://github.com/vishusharma2345/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishusharma2345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2615-sum-of-distances](https://github.com/vishusharma2345/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vishusharma2345/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/vishusharma2345/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -156,6 +158,7 @@ Daily Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vishusharma2345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/vishusharma2345/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
