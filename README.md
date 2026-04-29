@@ -10,6 +10,7 @@ Daily Questions
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/vishusharma2345/LeetCode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/vishusharma2345/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishusharma2345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vishusharma2345/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -151,6 +152,7 @@ Daily Questions
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/vishusharma2345/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vishusharma2345/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
