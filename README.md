@@ -58,6 +58,7 @@ Daily Questions
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vishusharma2345/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vishusharma2345/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishusharma2345/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ Daily Questions
 | [3225-maximum-score-from-grid-operations](https://github.com/vishusharma2345/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vishusharma2345/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@ Daily Questions
 | [3225-maximum-score-from-grid-operations](https://github.com/vishusharma2345/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
