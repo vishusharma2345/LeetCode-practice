@@ -14,6 +14,7 @@ Daily Questions
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishusharma2345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vishusharma2345/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishusharma2345/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -155,6 +156,7 @@ Daily Questions
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/vishusharma2345/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vishusharma2345/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -251,6 +253,7 @@ Daily Questions
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
