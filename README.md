@@ -159,6 +159,7 @@ Daily Questions
 | [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/vishusharma2345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vishusharma2345/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/vishusharma2345/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -255,6 +256,7 @@ Daily Questions
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/vishusharma2345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
