@@ -253,6 +253,7 @@ Daily Questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/vishusharma2345/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
