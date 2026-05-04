@@ -6,6 +6,7 @@ Daily Questions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/vishusharma2345/LeetCode/tree/main/0135-candy/) | Hard |
@@ -252,6 +253,7 @@ Daily Questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -301,6 +303,7 @@ Daily Questions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
