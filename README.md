@@ -33,6 +33,7 @@ Daily Questions
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vishusharma2345/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishusharma2345/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -111,6 +112,7 @@ Daily Questions
 | [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/vishusharma2345/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishusharma2345/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2615-sum-of-distances](https://github.com/vishusharma2345/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vishusharma2345/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -417,6 +419,7 @@ Daily Questions
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vishusharma2345/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Recursion
