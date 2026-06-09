@@ -1,6 +1,25 @@
 class Solution {
     public void sortColors(int[] nums) {
-        //inplace mtlb hume 
-        Arrays.sort(nums);
+        int n=nums.length;
+       // int[]nums=new int[n];
+        int count0=0;
+        int count1=0;
+        int count2=0;
+        for(int num:nums){
+            if(num==0)count0++;
+           else if(num==1)count1++;
+           else count2++;
+        }
+        for(int i=0; i<count0; i++){
+            nums[i]=0;
+        }
+        for(int i=count0; i<count0+count1; i++){
+            nums[i]=1;
+        }
+        for(int i=count0+count1; i<n; i++){
+            nums[i]=2;
+        }
+       // return nums;
+        
     }
 }
