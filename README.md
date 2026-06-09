@@ -8,6 +8,7 @@ Daily Questions
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishusharma2345/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/vishusharma2345/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vishusharma2345/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -360,6 +361,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/vishusharma2345/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishusharma2345/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Design
