@@ -362,6 +362,7 @@ Daily Questions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/vishusharma2345/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/vishusharma2345/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishusharma2345/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Design
