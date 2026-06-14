@@ -90,6 +90,7 @@ Daily Questions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vishusharma2345/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishusharma2345/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vishusharma2345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Daily Questions
 | [3120-count-the-number-of-special-characters-i](https://github.com/vishusharma2345/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vishusharma2345/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/vishusharma2345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +417,7 @@ Daily Questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishusharma2345/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vishusharma2345/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vishusharma2345/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
