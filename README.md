@@ -362,6 +362,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vishusharma2345/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0707-design-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
@@ -379,6 +380,7 @@ Daily Questions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0707-design-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
