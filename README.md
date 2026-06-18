@@ -6,6 +6,7 @@ Daily Questions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishusharma2345/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/vishusharma2345/LeetCode/tree/main/0046-permutations/) | Medium |
@@ -95,6 +96,7 @@ Daily Questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vishusharma2345/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -114,6 +116,7 @@ Daily Questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishusharma2345/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
