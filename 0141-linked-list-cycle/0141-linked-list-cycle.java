@@ -8,22 +8,18 @@
  *         next = null;
  *     }
  * }
- */import java.util.HashSet;
-
-class Solution {
+ */
+public class Solution {
     public boolean hasCycle(ListNode head) {
-        HashSet<ListNode> set = new HashSet<>();
-
-        ListNode curr = head;
-
-        while (curr != null) {
-            if (set.contains(curr)) {
-                return true; 
+        ListNode sol=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            sol=sol.next;
+            fast=fast.next.next;
+            if(sol==fast){
+                return true;
             }
-            set.add(curr);
-            curr = curr.next;
         }
-
         return false;
     }
 }
