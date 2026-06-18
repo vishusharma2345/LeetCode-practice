@@ -101,6 +101,7 @@ Daily Questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishusharma2345/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/vishusharma2345/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -368,6 +369,7 @@ Daily Questions
 | [0023-merge-k-sorted-lists](https://github.com/vishusharma2345/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0206-reverse-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
