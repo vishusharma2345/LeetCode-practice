@@ -487,6 +487,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -496,6 +497,7 @@ Daily Questions
 | ------- | ------- |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -512,6 +514,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -527,6 +530,7 @@ Daily Questions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
