@@ -456,6 +456,7 @@ Daily Questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -486,6 +487,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishusharma2345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
@@ -493,6 +495,7 @@ Daily Questions
 | ------- | ------- |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -507,6 +510,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishusharma2345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Queue
