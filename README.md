@@ -494,6 +494,7 @@ Daily Questions
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishusharma2345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -513,6 +514,7 @@ Daily Questions
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,6 +523,7 @@ Daily Questions
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishusharma2345/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
