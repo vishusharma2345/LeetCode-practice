@@ -9,6 +9,7 @@ Daily Questions
 | [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishusharma2345/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/vishusharma2345/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/vishusharma2345/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vishusharma2345/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -100,6 +101,7 @@ Daily Questions
 | ------- | ------- |
 | [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vishusharma2345/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -226,6 +228,7 @@ Daily Questions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/vishusharma2345/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/vishusharma2345/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/vishusharma2345/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -459,6 +462,7 @@ Daily Questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -469,6 +473,7 @@ Daily Questions
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
