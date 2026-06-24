@@ -247,6 +247,7 @@ Daily Questions
 | [3660-jump-game-ix](https://github.com/vishusharma2345/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vishusharma2345/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vishusharma2345/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishusharma2345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -371,6 +372,7 @@ Daily Questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishusharma2345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vishusharma2345/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vishusharma2345/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishusharma2345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishusharma2345/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
