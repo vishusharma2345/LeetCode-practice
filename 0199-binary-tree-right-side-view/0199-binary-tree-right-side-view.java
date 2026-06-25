@@ -13,7 +13,7 @@
  *     }
  * }
  */
- //BY DEPTH FIRST SEARCH RECURSION
+ //BY DEPTH FIRST SEARCH :RECURSION
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer>lis=new ArrayList<>();
@@ -29,6 +29,8 @@ class Solution {
         }
         fun(root.right,lis,level+1);
         fun(root.left,lis,level+1);
+        //note for left side view 
+        //fun()right left ko upside down krdo
 
     }
 }
