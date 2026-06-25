@@ -503,6 +503,7 @@ Daily Questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vishusharma2345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vishusharma2345/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -516,6 +517,7 @@ Daily Questions
 | [0098-validate-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vishusharma2345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -538,6 +540,7 @@ Daily Questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vishusharma2345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vishusharma2345/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -558,6 +561,7 @@ Daily Questions
 | [0102-binary-tree-level-order-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishusharma2345/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vishusharma2345/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/vishusharma2345/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
