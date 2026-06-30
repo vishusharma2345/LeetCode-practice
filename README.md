@@ -113,6 +113,7 @@ Daily Questions
 | [0344-reverse-string](https://github.com/vishusharma2345/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/vishusharma2345/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -213,6 +214,7 @@ Daily Questions
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vishusharma2345/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/vishusharma2345/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vishusharma2345/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vishusharma2345/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -315,6 +317,7 @@ Daily Questions
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishusharma2345/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/vishusharma2345/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/vishusharma2345/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
