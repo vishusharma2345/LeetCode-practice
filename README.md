@@ -113,6 +113,7 @@ Daily Questions
 | [0344-reverse-string](https://github.com/vishusharma2345/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/vishusharma2345/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/vishusharma2345/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishusharma2345/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -213,6 +214,7 @@ Daily Questions
 | [0424-longest-repeating-character-replacement](https://github.com/vishusharma2345/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/vishusharma2345/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vishusharma2345/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/vishusharma2345/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -247,6 +249,7 @@ Daily Questions
 | [0396-rotate-function](https://github.com/vishusharma2345/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/vishusharma2345/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0647-palindromic-substrings](https://github.com/vishusharma2345/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0788-rotated-digits](https://github.com/vishusharma2345/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vishusharma2345/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/vishusharma2345/LeetCode/tree/main/1340-jump-game-v/) | Hard |
