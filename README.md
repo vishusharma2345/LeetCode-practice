@@ -102,6 +102,7 @@ Daily Questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishusharma2345/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/vishusharma2345/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishusharma2345/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -204,6 +205,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishusharma2345/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/vishusharma2345/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -240,6 +242,7 @@ Daily Questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishusharma2345/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
