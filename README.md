@@ -79,6 +79,7 @@ Daily Questions
 | [3161-block-placement-queries](https://github.com/vishusharma2345/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/vishusharma2345/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishusharma2345/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -352,6 +353,7 @@ Daily Questions
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vishusharma2345/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -409,6 +411,7 @@ Daily Questions
 | [0239-sliding-window-maximum](https://github.com/vishusharma2345/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Linked List
@@ -467,6 +470,7 @@ Daily Questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishusharma2345/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/vishusharma2345/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -602,6 +606,7 @@ Daily Questions
 | [1345-jump-game-iv](https://github.com/vishusharma2345/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vishusharma2345/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -637,4 +642,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishusharma2345/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
