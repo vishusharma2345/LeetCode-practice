@@ -465,6 +465,7 @@ Daily Questions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vishusharma2345/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0707-design-linked-list](https://github.com/vishusharma2345/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -525,6 +526,7 @@ Daily Questions
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vishusharma2345/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishusharma2345/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/vishusharma2345/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vishusharma2345/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
