@@ -541,6 +541,7 @@ Daily Questions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/vishusharma2345/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vishusharma2345/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
