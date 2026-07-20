@@ -42,6 +42,7 @@ Daily Questions
 | [0992-subarrays-with-k-different-integers](https://github.com/vishusharma2345/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishusharma2345/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1260-shift-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/vishusharma2345/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/vishusharma2345/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -493,6 +494,7 @@ Daily Questions
 | [0073-set-matrix-zeroes](https://github.com/vishusharma2345/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/vishusharma2345/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1260-shift-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/vishusharma2345/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -514,6 +516,7 @@ Daily Questions
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/vishusharma2345/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/vishusharma2345/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishusharma2345/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vishusharma2345/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
